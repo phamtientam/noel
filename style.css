@@ -129,7 +129,7 @@ body {
 .star-top {
   position: absolute;
   top: -20px;
-  left: 50%;
+  left: 53%;
   transform: translateX(-50%);
   font-size: 40px;
   color: gold;
@@ -395,7 +395,7 @@ body {
 .star-top {
   position: absolute;
   top: -3%;
-  left: 51%;
+  left: 53%;
   transform: translateX(-50%);
   font-size: 24px;
   animation: starTwinkle 1.5s infinite alternate;
@@ -579,7 +579,7 @@ body {
 }
 
 .bells-container img{
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
 }
